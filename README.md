@@ -1,2 +1,3 @@
-# wallpaper_generator
+# Wallpaper Generator
  
+![](preview.png)
